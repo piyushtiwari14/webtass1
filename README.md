@@ -39,7 +39,7 @@ To run and test the project, follow these steps:
 
 ## Credits
 
-This assignment project was created as part of a B.Tech course in Computer Science. The HTML, CSS, and JavaScript code were written by [Your Name].
+This assignment project was created as part of a B.Tech course in Computer Science. The HTML, CSS, and JavaScript code were written by Piyush Tiwari.
 
 
 ## Contact
